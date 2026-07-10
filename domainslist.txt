@@ -1,3 +1,16 @@
+static-statements.tnet.ge
+api-locations.tnet.ge
+services.tnet.ge
+static.my.ge
+myhome.ge
+notebooklm.google
+gamesdonequick.com
+sony-mea.com
+firstflight.today
+poe-vault.com
+wwh88club.net
+wwh-club.to
+play.google.com
 nz.seek.com
 kiwieducation.ru
 forums.forza.net
