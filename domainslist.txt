@@ -1,3 +1,12 @@
+upload.wikimedia.org
+gcc.gnu.org
+cf.preview.redd.it
+external-preview.redd.it
+pkg.go.dev
+productengineer.org
+release-assets.githubusercontent.com
+i.scdn.co
+magica.com
 static-statements.tnet.ge
 api-locations.tnet.ge
 services.tnet.ge
