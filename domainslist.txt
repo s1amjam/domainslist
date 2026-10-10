@@ -1,3 +1,4 @@
+hackthebox.com
 portswigger.net
 forever.oxm.gg
 owasp.org
