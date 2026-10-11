@@ -1,3 +1,4 @@
+global.frcapi.com
 hackthebox.com
 portswigger.net
 forever.oxm.gg
