@@ -1,3 +1,8 @@
+coop5.aethus.pl
+coop4.aethus.pl
+coop3.aethus.pl
+coop2.aethus.pl
+coop1.aethus.pl
 coop.aethus.pl
 hls-c.udemycdn.com
 dash-enc-c.udemycdn.com
