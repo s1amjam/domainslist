@@ -1,3 +1,4 @@
+coop.aethus.pl
 hls-c.udemycdn.com
 dash-enc-c.udemycdn.com
 audacityteam.org
