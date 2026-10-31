@@ -1,3 +1,4 @@
+pypi.org
 release-assets.githubusercontent.com
 coop5.aethus.pl
 coop4.aethus.pl
