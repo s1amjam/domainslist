@@ -1,3 +1,4 @@
+release-assets.githubusercontent.com
 coop5.aethus.pl
 coop4.aethus.pl
 coop3.aethus.pl
