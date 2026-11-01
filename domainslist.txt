@@ -1,3 +1,5 @@
+checkoutshopper-live.adyen.com
+vice-prod.sdiapi.com
 pypi.org
 release-assets.githubusercontent.com
 coop5.aethus.pl
