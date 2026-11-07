@@ -1,3 +1,4 @@
+silo.cat
 kodekloud.com
 checkoutshopper-live.adyen.com
 vice-prod.sdiapi.com
