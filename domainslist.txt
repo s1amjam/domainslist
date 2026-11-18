@@ -1,3 +1,4 @@
+trezor.io
 warcrafttavern.com
 conquestcapped.com
 silo.cat
